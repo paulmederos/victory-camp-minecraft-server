@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-08-23 21:26:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-08-23 21:25:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2019-08-23 21:23:41 -0700",
+      "minecraft:forest": "2019-08-23 21:26:15 -0700",
+      "minecraft:jungle": "2019-08-23 21:24:36 -0700",
+      "minecraft:wooded_hills": "2019-08-23 21:26:24 -0700",
+      "minecraft:plains": "2019-08-23 21:22:27 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
