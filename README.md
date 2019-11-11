@@ -6,4 +6,4 @@ To run the server:
 2. *Run sever program.* Find `minecraft_server-1.14.4.jar`, and run it by double-clicking. 
 
 ^^ If you run it this way, you'll see a Java program running in a window that
-looks like this: !(https://i.imgur.com/vu0T14o.png)[]
+looks like this: ![](https://i.imgur.com/vu0T14o.png)
